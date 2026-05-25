@@ -33,6 +33,8 @@ npx skills add bee1an/skills --skill vue vite transitions-dev
 | vueuse-functions | [antfu/skills](https://github.com/antfu/skills) |
 | web-design-guidelines | [antfu/skills](https://github.com/antfu/skills) |
 | transitions-dev | [jakubantalik/transitions-dev](https://github.com/jakubantalik/transitions-dev) |
+| optimize-network | [majiayu000/optimize-network](https://github.com/majiayu000/claude-arsenal/tree/main/skills/optimize-network) |
+| gpt-image-prompt | [@liyue_ai](https://x.com/liyue_ai/status/2056947629548843481) |
 
 ## License
 
